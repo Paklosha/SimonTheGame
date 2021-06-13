@@ -1,5 +1,7 @@
 # SimonTheGame
 The Simon game, vue js
+# You can find the uploaded application on github pages at the following link:
+https://paklosha.github.io/SimonTheGame/
 # test
 
 ## Project setup
