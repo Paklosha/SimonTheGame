@@ -6,7 +6,7 @@
         <game-logo/>
         <game-level/>
       </div>
-      <game-lights msg="Welcome to Your Vue.js App"/>
+      <game-lights msg="Welcome to Simon The Game"/>
       <game-menu/>
     </div>
   </div>

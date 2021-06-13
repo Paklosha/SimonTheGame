@@ -11,10 +11,10 @@ export default new Vuex.Store({
     state: 'waiting', // waiting, ready, listening, gameover
     elapsedTime: 0,
     currentSequence: [],
-    sequenceListener: undefined 
+    sequenceListener: undefined
   },
   mutations: {
-    changeDifficulty(state,difficulty) {
+    changeDifficulty(state, difficulty) {
       // mutate state
       state.difficulty = difficulty
     }
