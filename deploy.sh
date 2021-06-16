@@ -1,8 +1,8 @@
 set -e
 npm run build
 cd dist
-git init
-git add -A
-git commit -m 'deploy'
-git push -f https://github.com/Paklosha/createClientForm.git master:gh-pages
+sudo git init
+sudo git add -A
+sudo git commit -m 'deploy'
+sudo git push -f https://github.com/Paklosha/createClientForm.git master:gh-pages
 cd -
