@@ -4,5 +4,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f https://github.com/Paklosha/SimonTheGame.git master:gh-pages
+git push -f https://github.com/Paklosha/createClientForm.git master:gh-pages
 cd -
